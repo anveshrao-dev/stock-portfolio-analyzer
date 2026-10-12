@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local caches and editor settings
+.pytest_cache/
+.uv-cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets and personal data: only synthetic fixtures belong in data/
+.env
+.env.*
+.streamlit/secrets.toml
+data/private/
+uploads/
+*.log

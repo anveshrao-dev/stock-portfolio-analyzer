@@ -1,0 +1,11 @@
+ticker,exchange,currency,price,as_of,source
+AAPL,NASDAQ,USD,248.40,2026-09-30,SAMPLE - fictional reference
+MSFT,NASDAQ,USD,512.80,2026-09-30,SAMPLE - fictional reference
+NVDA,NASDAQ,USD,181.20,2026-09-30,SAMPLE - fictional reference
+AMZN,NASDAQ,USD,232.60,2026-09-30,SAMPLE - fictional reference
+GOOGL,NASDAQ,USD,218.90,2026-09-30,SAMPLE - fictional reference
+TSLA,NASDAQ,USD,286.50,2026-09-30,SAMPLE - fictional reference
+RELIANCE,NSE,INR,1548.75,2026-09-30,SAMPLE - fictional reference
+TCS,NSE,INR,4512.30,2026-09-30,SAMPLE - fictional reference
+INFY,NSE,INR,2018.40,2026-09-30,SAMPLE - fictional reference
+HDFCBANK,NSE,INR,2076.20,2026-09-30,SAMPLE - fictional reference
